@@ -1,0 +1,11 @@
+.env
+queue.json
+settings.json
+events.jsonl
+queue.lock
+.venv
+node_modules
+dist
+ui/dist
+.codegraph
+__pycache__/

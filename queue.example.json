@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Primer post",
+    "body": "Texto del primer post.",
+    "subreddit": "test",
+    "status": "pending"
+  },
+  {
+    "title": "Segundo post",
+    "body": "Texto del segundo post.",
+    "subreddit": "test",
+    "status": "pending",
+    "not_before": "2026-10-10T09:00:00+02:00"
+  }
+]
